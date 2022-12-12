@@ -178,3 +178,5 @@ export const getIsLatestGame = () => {
 
 export const { solution, solutionGameDate, solutionIndex, tomorrow } =
   getSolution(getGameDate())
+
+print(solution);
