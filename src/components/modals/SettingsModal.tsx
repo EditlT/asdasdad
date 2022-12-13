@@ -25,6 +25,8 @@ export const SettingsModal = ({
   handleDarkMode,
   isHighContrastMode,
   handleHighContrastMode,
+  handleSalmonMode,
+  isSalmonMode
 }: Props) => {
   return (
     <BaseModal title="Settings" isOpen={isOpen} handleClose={handleClose}>
@@ -40,6 +42,11 @@ export const SettingsModal = ({
           flag={isDarkMode}
           handleFlag={handleDarkMode}
         />
+        <SettingsToggle
+          settingName="Salmon Mode"
+          flag={isSalmonMode}
+          handleFlag={handleSalmonMode}
+        />        
         <SettingsToggle
           settingName="High Contrast Mode"
           flag={isHighContrastMode}
