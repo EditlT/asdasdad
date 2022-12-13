@@ -14,6 +14,8 @@ type Props = {
   handleDarkMode: Function
   isHighContrastMode: boolean
   handleHighContrastMode: Function
+  isSalmonMode: boolean
+  handleSalmonMode: Function
 }
 
 export const SettingsModal = ({
