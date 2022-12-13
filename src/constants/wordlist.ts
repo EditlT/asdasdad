@@ -1,4 +1,4 @@
-/** export const WORDS = [
+/* export const WORDS = [
   'which',
   'there',
   'their',
@@ -5756,7 +5756,7 @@
   'rumba',
   'biffy',
   'pupal',
-] *//
+] */
 export const WORDS = [
   'peace',
   'music',
