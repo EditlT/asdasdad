@@ -5778,7 +5778,6 @@ export const WORDS = [
   'myrrh',
   'share',
   'birth',
-  'praise',
   'honor',
   'hymns',
   'bells',
