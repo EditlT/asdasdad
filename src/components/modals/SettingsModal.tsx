@@ -28,7 +28,7 @@ export const SettingsModal = ({
   isHighContrastMode,
   handleHighContrastMode,
   handleSalmonMode,
-  isSalmonMode
+  isSalmonMode,
 }: Props) => {
   return (
     <BaseModal title="Settings" isOpen={isOpen} handleClose={handleClose}>
