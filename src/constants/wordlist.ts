@@ -5782,7 +5782,7 @@ export const WORDS = [
   'honor',
   'hymns',
   'bells,',
-  'gifts,'
+  'gifts',
   'winter',
   'trees',
   'red',
