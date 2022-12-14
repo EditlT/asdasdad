@@ -27,7 +27,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
         <Cell value="T" isCompleted={true} />
       </div>
       <p className="text-sm text-gray-500 dark:text-gray-300">
-        The letter W is in the word and in the correct spot.
+        The letter F is in the word and in the correct spot.
       </p>
 
       <div className="mb-1 mt-4 flex justify-center">
@@ -43,7 +43,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
         <Cell value="S" isCompleted={true} />
       </div>
       <p className="text-sm text-gray-500 dark:text-gray-300">
-        The letter L is in the word but in the wrong spot. Therefore, it being yellow.
+        The letter L is in the word but in the wrong spot.
       </p>
 
       <div className="mb-1 mt-4 flex justify-center">
