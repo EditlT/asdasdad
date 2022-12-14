@@ -39,7 +39,7 @@ export const SettingsModal = ({
           settingName="Dark Mode"
           flag={isDarkMode}
           handleFlag={handleDarkMode}
-        />
+        />      
         <SettingsToggle
           settingName="High Contrast Mode"
           flag={isHighContrastMode}
