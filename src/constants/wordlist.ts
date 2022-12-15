@@ -5811,4 +5811,5 @@ export const WORDS = [
   'prays',
   'rabbi',
   'strict',
+  'santa',
   ]
