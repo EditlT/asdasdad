@@ -10954,6 +10954,7 @@ export const VALID_GUESSES = [
   'sucky',
   'sucre',
   'sudds',
+  'santa',
   'sudor',
   'sudsy',
   'suede',
