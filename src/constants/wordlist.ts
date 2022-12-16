@@ -5810,6 +5810,6 @@ export const WORDS = [
   'night',
   'prays',
   'rabbi',
-  'strict',
+  'deers',
   'santa',
   ]
