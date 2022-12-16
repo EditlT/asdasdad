@@ -843,6 +843,7 @@ export const VALID_GUESSES = [
   'bares',
   'barfi',
   'barfs',
+  'vacay',
   'barfy',
   'barge',
   'baric',
