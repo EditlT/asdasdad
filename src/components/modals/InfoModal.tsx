@@ -58,9 +58,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
       </p>
       
       <p className="mt-6 text-sm italic text-gray-500 dark:text-gray-300">
-        YAY! Holiday theme, ITS OUT! Enjoy the holiday words
-        with the revamp of the info modal!
-        love - Dean ❤️
+        YAY! Holiday theme, ITS OUT! hi fifth grade :)
       </p>
     </BaseModal>
   )
