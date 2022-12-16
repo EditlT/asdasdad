@@ -47,14 +47,14 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
       </p>
 
       <div className="mb-1 mt-4 flex justify-center">
-        <Cell value="G" isCompleted={true} />
-        <Cell value="I" isCompleted={true} />
-        <Cell value="F" isCompleted={true} />
-        <Cell isRevealing={true} isCompleted={true} value="T" status="absent" />
+        <Cell value="D" isCompleted={true} />
+        <Cell value="E" isCompleted={true} />
+        <Cell value="E" isCompleted={true} />
+        <Cell isRevealing={true} isCompleted={true} value="R" status="absent" />
         <Cell value="S" isCompleted={true} />
       </div>
       <p className="text-sm text-gray-500 dark:text-gray-300">
-        The letter T is not in the word in any spot. It will also appear gray on the bottom-center keyboard.
+        The letter R is not in the word in any spot. It will also appear gray on the bottom-center keyboard.
       </p>
       
       <p className="mt-6 text-sm italic text-gray-500 dark:text-gray-300">
