@@ -5815,7 +5815,7 @@ export const WORDS = [
   'prays',
   'rabbi',
   'deers',
-  'santa',
+  /*'santa', */
   'north',
   'poles',
   ]
