@@ -5817,4 +5817,5 @@ export const WORDS = [
   'deers',
   'santa',
   'north',
+  'poles',
   ]
